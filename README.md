@@ -2,39 +2,7 @@
 
 Indriya is a **one-stop digital solution for mental health and wellness**. From analyzing your psychological and mental health conditions to providing effective solutions, therapies, relaxing games, wellness blogs, and tools like a medication tracker — Indriya supports your journey to better mental well-being.
 
----
-
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](../src/images/preview/1.png)
-
-### Services
-
-![Services] (../src/images/preview/2.png)
-
-### 🧠 Mental Fitness Check
-
-![Mental Fitness Check](../src/images/preview/4.png)
-
-### 💆 Digital Therapies
-
-Redirect to an external link for Therapy
-
-### 🎮 Relaxing Games
-
-![Relaxing Games](../src/images/preview/5.png)
-
-### 📝 Wellness Blogs
-
-![Wellness Blogs](../src/images/preview/6.png)
-
-### 💊 Medication Tracker
-
-![Medication Tracker](../src/images/preview/7.png)
-
----
+-
 
 ## ✨ Features
 
@@ -78,4 +46,5 @@ Redirect to an external link for Therapy
 4. Open `http://localhost:5173` to view it in the browser.
 
 ---
-"# Indriya" 
+
+"# Indriya"

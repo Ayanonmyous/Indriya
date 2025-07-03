@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "text": "How Often do you feel anxious or on edge?",
+        "options":[
+            {"text":"Rarely", "score":1},
+            {"text":"Sometimes", "score":2},
+            {"text":"Often", "score":3}
+        ]
+    },{
+        "id":2,
+        "text": "Do you enjoy things you once found pleasurable?",
+        "options":[
+            {"text":"Yes", "score":1},
+            {"text":"Not Always", "score":2},
+            {"text":"Not at all", "score":3}
+        ]
+
+    },{
+        "id":3,
+        "text": "How Often do you feel tired or low energy?",
+        "options":[
+            {"text":"Rarely", "score":1},
+            {"text":"Sometimes", "score":2},
+            {"text":"Frequently", "score":3}
+        ]
+    },{
+        "id":4,
+        "text": "Do you have trouble falling or staying asleep?",
+        "options":[
+            {"text":"No", "score":1},
+            {"text":"Sometimes", "score":2},
+            {"text":"Yes", "score":3}
+        ]
+    },{
+        "id":5,
+        "text": "Do you feel worthless or like a burden?",
+        "options":[
+            {"text":"Never", "score":1},
+            {"text":"Oscasionally", "score":2},
+            {"text":"Often", "score":3}
+        ]
+    },{
+        "id":6,
+        "text": "How Often do you feel irritated or angry?",
+        "options":[
+            {"text":"Rarely", "score":1},
+            {"text":"Sometimes", "score":2},
+            {"text":"Often", "score":3}
+        ]
+    },{
+        "id":7,
+        "text": "Do you feel Hopeful about future?",
+        "options":[
+            {"text":"Yes", "score":1},
+            {"text":"Unsure", "score":2},
+            {"text":"No", "score":3}
+        ]
+    },{
+        "id":8,
+        "text": "Do you avoid social interactions or isolate yourself?",
+        "options":[
+            {"text":"No", "score":1},
+            {"text":"Sometimes", "score":2},
+            {"text":"Yes", "score":3}
+        ]
+    },{
+        "id":9,
+        "text": "Do you feel overwhelmed?",
+        "options":[
+            {"text":"Rarely", "score":1},
+            {"text":"Sometimes", "score":2},
+            {"text":"Often", "score":3}
+        ]
+    },{
+        "id":10,
+        "text": "Do you feel motivated to completed your daily tasks?",
+        "options":[
+            {"text":"Yes", "score":1},
+            {"text":"Sometimes", "score":2},
+            {"text":"No", "score":3}
+        ]
+    }
+]
