@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-6xl mx-auto flex flex-col  md:flex-row items-center gap-12">
           <div className="md:w-1/2">
             <img
-              src="../images/aboutus.jpg"
+              src="/images/aboutus.jpg"
               alt="Person finding peace"
               className=" mt-10 w-96 rounded-xl shadow-lg"
             />
@@ -16,11 +16,7 @@ const About = () => {
           <div className="md:w-1/2 ">
             <h2 className="text-4xl font-bold text-indigo-600 mb-6 flex gap-3">
               About Indriya
-              <img
-                src="../images/image.png"
-                alt="logo"
-                className="w-10 h-10 "
-              />
+              <img src="/images/image.png" alt="logo" className="w-10 h-10 " />
             </h2>
             <p className="text-1g text-gray-900 font-semibold  mb-6 leading-relaxed">
               <span className="font-bold text-indigo-500 ">Indriya </span>
