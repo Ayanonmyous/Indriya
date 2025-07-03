@@ -19,7 +19,7 @@ const Navbar = () => {
             <a className="flex flex-shrink-0 items-center mr-5" href="/">
               <img
                 className="h-16 w-auto scroll-p-8"
-                src="/src/images/image.png"
+                src="/images/image.png"
                 alt="Company Logo "
               />
               <span className="hidden md:block text-white font-sembold  text-2xl  ml-2  font-extrabold">

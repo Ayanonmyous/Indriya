@@ -11,7 +11,7 @@ const Blogs = () => {
         </h1>
         <div className="flex flex-col md:flex-row items-start gap-4 p-4 rounded-3xl shadow-md hover:shadow-xl mb-5 rounded-2xl transition-shadow duration-300">
           <img
-            src="../src/images/blog/blog1.png"
+            src="/images/blog/blog1.png"
             alt="Blog 1 Thumbnail"
             className=" w-48 h-32 object-cover rounded"
           />
@@ -36,7 +36,7 @@ const Blogs = () => {
 
         <div className="flex flex-col md:flex-row items-start gap-4 p-4 rounded-3xl shadow-md hover:shadow-xl mb-5 rounded-2xl transition-shadow duration-300">
           <img
-            src="../src/images/blog/blog2.png"
+            src="/images/blog/blog2.png"
             alt="Blog 1 Thumbnail"
             className=" w-48 h-32 object-cover rounded"
           />
@@ -60,7 +60,7 @@ const Blogs = () => {
 
         <div className="flex flex-col md:flex-row items-start gap-4 p-4 rounded-3xl shadow-md hover:shadow-xl mb-5 rounded-2xl transition-shadow duration-300">
           <img
-            src="../src/images/blog/blog3.png"
+            src="/images/blog/blog3.png"
             alt="Blog 1 Thumbnail"
             className=" w-48 h-32 object-cover rounded"
           />
@@ -85,7 +85,7 @@ const Blogs = () => {
 
         <div className="flex flex-col md:flex-row items-start gap-4 p-4 rounded-3xl shadow-md hover:shadow-xl mb-5 rounded-2xl transition-shadow duration-300">
           <img
-            src="../src/images/blog/blog4.png"
+            src="/images/blog/blog4.png"
             alt="Blog 1 Thumbnail"
             className=" w-48 h-32 object-cover rounded"
           />

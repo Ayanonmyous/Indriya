@@ -37,10 +37,7 @@ const HeroSection = () => {
         </div>
 
         <div className="w-full md:w-1/2 mb-12 md:mb-0 ">
-          <img
-            src="/src/images/HeroImage.png"
-            alt="Mental Health Illustration"
-          />
+          <img src="/images/HeroImage.png" alt="Mental Health Illustration" />
         </div>
       </section>
     </>

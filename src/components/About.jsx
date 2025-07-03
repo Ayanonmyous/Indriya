@@ -7,7 +7,7 @@ const About = () => {
         <div className="max-w-6xl mx-auto flex flex-col  md:flex-row items-center gap-12">
           <div className="md:w-1/2">
             <img
-              src="../src/images/aboutus.jpg"
+              src="/images/aboutus.jpg"
               alt="Person finding peace"
               className=" mt-10 w-96 rounded-xl shadow-lg"
             />
