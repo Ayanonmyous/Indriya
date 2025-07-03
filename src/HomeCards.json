@@ -3,31 +3,31 @@
     "title": "Mental Fitness Check",
     "description": "Take a free assessment to understand your current mental well-being.",
     "button": "Start Assessment",
-    "image":"/images/cards/Mentalfitnesscheck.png"
+    "image":"../images/cards/Mentalfitnesscheck.png"
   },
   {
     "title": "Digital Therapies",
     "description": "Explore both free and premium therapy options tailored to your needs.",
     "button": "Explore Therapies",
-    "image":"/images/cards/digitaltherapies.png"
+    "image":"../images/cards/digitaltherapies.png"
   },
   {
     "title": "Relaxing Games",
     "description": "Unwind with calming and mindful games designed to ease your mind.",
     "button": "Play Now",
-    "image":"/images/cards/relaxinggames.png"
+    "image":"../images/cards/relaxinggames.png"
   },
   {
     "title": "Wellness Blogs",
     "description": "Read insightful articles and lifestyle tips to uplift your mental health.",
     "button": "Read Blogs",
-    "image":"/images/cards/wellnessblogs.png"
+    "image":"../images/cards/wellnessblogs.png"
   },
   {
     "title": "Medication Tracker",
     "description": "Never miss your therapy or medications. Let Indriya keep you on track.",
     "button": "Track Medication",
-    "image":"/images/cards/Meditationreminders.png"
+    "image":"../images/cards/Meditationreminders.png"
   }
 
 ]

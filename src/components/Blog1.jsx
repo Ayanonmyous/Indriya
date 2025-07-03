@@ -10,7 +10,7 @@ const Blog1 = () => {
         </h2>
         <div className="flex flex-col md:flex-row gap-8">
           <img
-            src="/images/blog/blog1.png"
+            src="../images/blog/blog1.png"
             alt="Blog 1 image"
             className=" ml-7 w-full rounded-3xl md:w-1/2 h-100 "
           />
@@ -61,7 +61,7 @@ const Blog2 = () => {
         </h2>
         <div className="flex flex-col md:flex-row gap-8">
           <img
-            src="/images/blog/blog2.png"
+            src="../images/blog/blog2.png"
             alt="Blog 2 image"
             className=" ml-7 w-full rounded-3xl md:w-1/2 h-100 "
           />
@@ -109,7 +109,7 @@ const Blog3 = () => {
         </h2>
         <div className="flex flex-col md:flex-row gap-8">
           <img
-            src="/images/blog/blog3.png"
+            src="../images/blog/blog3.png"
             alt="Blog 3 image"
             className=" ml-7 w-full rounded-3xl md:w-1/2 h-auto "
           />
@@ -156,7 +156,7 @@ const Blog4 = () => {
         </h2>
         <div className="flex flex-col md:flex-row gap-8">
           <img
-            src="/images/blog/blog4.png"
+            src="../images/blog/blog4.png"
             alt="Blog 4 image"
             className=" ml-7 w-full rounded-3xl md:w-1/2 h-auto "
           />

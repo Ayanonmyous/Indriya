@@ -4,7 +4,7 @@ const HeroSection = () => {
   const navigate = useNavigate();
   return (
     <>
-      <section className="flex flex-col-reverse md:flex-row items-center justify-between px-8 py-16 bg-[url('../src/images/background.jpg')] object-cover gap-3 mt-20 ">
+      <section className="flex flex-col-reverse md:flex-row items-center justify-between px-8 py-16 bg-[url('../src../images/background.jpg')] object-cover gap-3 mt-20 ">
         <div className="w-full md:w-1/2">
           {/* left text section */}
           <h1 className="text-5xl md:text-6xl font-extrabold text-white mb-7">
@@ -37,7 +37,7 @@ const HeroSection = () => {
         </div>
 
         <div className="w-full md:w-1/2 mb-12 md:mb-0 ">
-          <img src="/images/HeroImage.png" alt="Mental Health Illustration" />
+          <img src="../images/HeroImage.png" alt="Mental Health Illustration" />
         </div>
       </section>
     </>
