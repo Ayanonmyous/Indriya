@@ -1,12 +1,9 @@
-Got it! I’ll revise your `README.md` with proper Markdown, update the `cd` command, and include your screenshots for better visual context. Here’s the improved version:
 
----
 
 # Indriya
 
 Indriya is a **one-stop digital solution for mental health and wellness**. From analyzing your psychological and mental health conditions to providing effective solutions, therapies, relaxing games, wellness blogs, and tools like a medication tracker — Indriya supports your journey to better mental well-being.
 
----
 
 ## 🖼️ Preview
 
