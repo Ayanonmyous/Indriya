@@ -8,17 +8,6 @@ Indriya is a **one-stop digital solution for mental health and wellness**. From 
 
 ---
 
-## ✨ Features
-
-- **Mental Fitness Check** — Take a free assessment to understand your current mental well-being.
-- **Digital Therapies** — Access free and premium therapy options tailored to your needs.
-- **Relaxing Games** — Unwind with calming and mindful games.
-- **Wellness Blogs** — Read insightful articles and lifestyle tips.
-- **Medication Tracker** — Stay on top of your therapy and medication schedule.
-- **Emergency Helpline** — Quick access to helpline numbers and doctors in case of emergencies.
-
----
-
 ## 🖼️ Preview
 
 ### 🏠 Home
@@ -48,6 +37,17 @@ Indriya is a **one-stop digital solution for mental health and wellness**. From 
 ### 📞 Call to Action
 
 ![Call to Action](./public/images/preview/3.png)
+
+---
+
+## ✨ Features
+
+- **Mental Fitness Check** — Take a free assessment to understand your current mental well-being.
+- **Digital Therapies** — Access free and premium therapy options tailored to your needs.
+- **Relaxing Games** — Unwind with calming and mindful games.
+- **Wellness Blogs** — Read insightful articles and lifestyle tips.
+- **Medication Tracker** — Stay on top of your therapy and medication schedule.
+- **Emergency Helpline** — Quick access to helpline numbers and doctors in case of emergencies.
 
 ---
 
@@ -82,5 +82,3 @@ Indriya is a **one-stop digital solution for mental health and wellness**. From 
 4. Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
 
 ---
-
-Let me know if you’d like a version with custom badges, contributor section, or deployment instructions! 🚀
