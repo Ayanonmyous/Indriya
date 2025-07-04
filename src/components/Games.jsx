@@ -3,22 +3,22 @@ import React from "react";
 const gamesData = [
   {
     title: "Stress Me Less",
-    image: "../src/images/games/game1.png",
+    image: "/images/games/game1.png",
     link: "https://mindyourmind.ca/apps/StressMeLess/index.html",
   },
   {
     title: "Monstressity",
-    image: "../src/images/games/game2.png",
+    image: "/images/games/game2.png",
     link: "https://mindyourmind.ca/apps/Monstressity/",
   },
   {
     title: "Quote Bloom",
-    image: "../src/images/games/game3.png",
+    image: "/images/games/game3.png",
     link: "https://mindyourmind.ca/apps/QuoteBloom/en/story_html5.html",
   },
   {
     title: "Anatomy of a Panic Attack",
-    image: "../src/images/games/game4.png",
+    image: "/images/games/game4.png",
     link: "https://mindyourmind.ca/apps/QuoteBloom/en/story_html5.html",
   },
 ];
